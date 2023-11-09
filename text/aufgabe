@@ -1,0 +1,8 @@
+In dem Fuhrpark einer FIRMA BEFINDEN SICH Fahrzeuge:
+Autos mit KFZ Scheinnummer , Rahmennummer ,Sitzplätzen ,Kennzeichen
+und ,Ladevolumen und KW, Motorräder mit KFZschein, Rahmennummer ,Sitzplätzen,Kennzeichen, KW und Schräglagenfreiheit,
+Fahrräder ,mit Sitzplätzen und Anzahlvon Gängen
+e-Rikschas mit Sitzplätzen und Anzahl von Gängen ,KW.
+
+Erstelle alle benötigten Klassen
+Konstruktoren, Interfaces und erstelle je 1 Beispielobjekts
